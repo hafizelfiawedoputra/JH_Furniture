@@ -1,0 +1,181 @@
+.content-title h1 {
+    margin-top:18px;
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.content{
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #ffffff;
+}
+
+.content.wrapper-content{
+    width: 1px;
+    border-radius: 8px;
+    padding: 30px 95px 30px 90px;
+}
+
+.content .content-title h1 {
+    color: #A748AA;
+    font-size: 40px;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.content .content-title {
+    margin-bottom: 50px;
+}
+
+.content form{
+    margin: auto;
+    width: 500px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+h2 {
+    color: #A748AA;
+    font-size: 40px;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+    color: #A748AA;
+    font-size: 40px;
+    font-family: "Adobe Fan Heiti Std B";
+}
+
+
+
+.card-body{
+    background-color: #A748AA;
+}
+input[type=text], input[type=password], textarea, input[type=email], input[type=number], input[type=file] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+td{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+tr td select {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-bottom: 12px;
+}
+
+.btn-submit{
+    background-position: center;
+    width:80%;
+    height: 50px;
+    border-radius: 20px;
+}
+
+.btn-submit1{
+    background-position: center;
+    height: 50px;
+    border-radius: 20px;
+}
+
+.btn-submit12, .btn-success1, .btn-danger1{
+    background-position: center;
+    height: 50px;
+    border-radius: 20px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.btn-submit, .btn-submit1, .btn-submit12{
+    font-weight: bold;
+    color: white;
+    background-color: #A748AA;
+    border-color: #8e2d91;
+}
+
+.btn-success1 {
+    font-weight: bold;
+    color: #fff;
+    background-color: #198754;
+    border-color: #198754;
+}
+
+.btn-danger1{
+    font-weight: bold;
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.btn-submit:hover, .btn-submit1:hover, .btn-submit12:hover{
+    background-color: #4d0050;
+    outline: none;
+}
+
+.btn-success1:hover{
+    background-color: #004122;
+    outline: none;
+}
+
+.btn-danger1:hover{
+    background-color: #79000d;
+    outline: none;
+}
+
+.btn-search{
+    background-color:#A748AA ;
+    width: 90px;
+    height: 57px;
+    border-radius: 20px;
+}
+
+.btn-search:hover{
+    background-color:#4d0050 ;
+    width: 90px;
+    height: 57px;
+    outline: none;
+}
+
+.detail{
+    color:#A748AA ;
+    font-weight: bold;
+    font-family: "Adobe Fan Heiti Std B";
+}
+
+.previous{
+    background-color:#A748AA ;
+}
+.previous:hover{
+    background-color:#4d0050 ;
+}
+
+.footer{
+    font-family: "Adobe Fan Heiti Std B";
+}
+
+.buttonPn{
+    padding: 50px;
+    padding-block: 5px;
+}
+
+.c-right {
+    text-align: right;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+

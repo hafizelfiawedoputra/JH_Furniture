@@ -1,0 +1,16 @@
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    padding-block: 20px;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    background-color: #A748AA;
+    margin-bottom: 0;
+}
