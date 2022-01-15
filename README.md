@@ -1,4 +1,4 @@
-# Happy Book Store
+#  JH Furniture (Goods Online Store)
 JH Furniture is a website-based online goods store using the PHP - Laravel 8 programming language.JH Furniture is a website-based online goods store using the PHP - Laravel 8.0 programming language.
 
 Here are the results of the application:
