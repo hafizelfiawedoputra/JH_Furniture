@@ -16,11 +16,13 @@ class Transaction extends Model
         'id_card',
     ];
 
-    public function order_items(){
+    public function order_items()
+    {
         return $this->hasMany(OrderItem::class, 'transaction_id', 'id');
     }
 
-    public function users(){
+    public function users()
+    {
         return $this->belongsTo(User::class, 'user_id', 'id');
     }
 }
